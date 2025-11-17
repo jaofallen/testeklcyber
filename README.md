@@ -21,17 +21,14 @@ Coletar dados sem autorização viola leis e políticas de privacidade.
 ✔ Execução em background com keyboard.Listener
 
 🧰 Tecnologias Utilizadas
-Tecnologia	Função
-Python 3.x	Linguagem principal
-pynput	Captura de teclado
-smtplib	Envio dos e-mails
-email.mime.text	Formatação da mensagem
-threading.Timer	Agendamento periódico
-📁 Estrutura do Projeto
-📦 keylogger-educacional
- ├── keylogger.py
- ├── README.md
- └── requirements.txt  (opcional)
+
+✔ Tecnologia	Função
+✔ Python 3.x	Linguagem principal
+✔ pynput	Captura de teclado
+✔ smtplib	Envio dos e-mails
+✔ email.mime.text	Formatação da mensagem
+✔ threading.Timer	Agendamento periódico
+
 
 ⚙️ Instalação
 1️⃣ Clone o repositório
